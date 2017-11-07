@@ -1,4 +1,4 @@
-dbyll
+Coder9s
 =====
 
 Open source stylish, minimalistic theme for jekyll.  
