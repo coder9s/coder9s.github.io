@@ -16,7 +16,7 @@ defaults:
     values:
       title: Coder9s
 
-description: Stylish Jekyll Theme
+description: Blog Ruby On Rails , React , Sketchapp
 author:
   name: Coder9s
   email: luandevpro@gmail.com
@@ -24,7 +24,7 @@ author:
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  bio: Blog Ruby On Rails ,React ,Sketchapp
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
