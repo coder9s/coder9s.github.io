@@ -9,4 +9,5 @@ fullview: true
 In your config file change these settings
 
 {% highlight yaml %}
+hello
 {% endhighlight %}
